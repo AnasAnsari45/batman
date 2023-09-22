@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+    background-image: url(./assets/images/background2.png);
+}
+.poster {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+}
+h1 {
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+.image {
+    width: 100%;
+    border: solid white;
+    border-width: 5px;
+}
+p {
+    color: white;
+    text-align: center;
+}
+.signature {
+    /* border: 3px solid red; */
+    height: 25px;
+    width: 300px;
+    margin-top: 114px;
+    margin-left: 1500px;
+    margin-right: 25%;
+    margin-bottom: 13px;
+    color: yellow;
+    text-align: right;
+    
+}
+#sigtext {
+    /* padding-right: 20px;
+    padding-left: 20px; */
+    font-size: 0.6rem;
+    text-transform: uppercase;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
